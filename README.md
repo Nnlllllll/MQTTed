@@ -1,6 +1,6 @@
 # App Casa IoT
 
-Este é o projeto do aplicativo de monitoramento e controle IoT feito em React Native. Eu utilizei o template passado em aula como base, fiz a integração com o MQTT e implementei o desafio extra de persistência de dados.
+Este é o projeto do aplicativo de monitoramento e controle IoT feito em React Native. Eu utilizei o codigo base passado, e implementei o desafio de persistência de dados.
 
 ## Persistência de Dados (AsyncStorage)
 
